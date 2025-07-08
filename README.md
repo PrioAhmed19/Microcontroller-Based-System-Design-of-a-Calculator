@@ -67,9 +67,6 @@ To understand, simulate, or replicate this project, follow these steps:
 -   **Advanced Functions:** Implement more complex mathematical operations (e.g., trigonometry, logarithms).
 -   **Error Handling:** Add features to handle invalid inputs or overflow conditions.
 
-## License
-
-[License information will be added here. This project is intended to be open-source, and a suitable license will be chosen.]
 
 ## Contributing
 
