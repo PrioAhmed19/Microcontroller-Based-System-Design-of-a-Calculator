@@ -30,9 +30,9 @@ The software aspect involves writing code to control the AT89C51 microcontroller
 
 This repository contains several key files related to the calculator project:
 
--   `Final_Calc.pdsprj (1).zip`: This archive likely contains the Proteus simulation project files (`.pdsprj`). Proteus is a popular software for circuit design and simulation, especially for microcontrollers. This file allows users to open and simulate the hardware design of the calculator.
+-   `Final_Calc.pdsprj (1).zip`: This zip file contains the Proteus simulation project files (`.pdsprj`). Proteus is a popular software for circuit design and simulation, especially for microcontrollers. This file allows users to open and simulate the hardware design of the calculator.
 -   `finalcode (1).hex`: This is the compiled hexadecimal file of the microcontroller's program. This `.hex` file can be directly programmed onto an AT89C51 microcontroller, making the hardware functional.
--   `finalcodedupltestsnn (1).hex`: This appears to be another version or a duplicate of the compiled hexadecimal code, possibly used for testing or containing minor variations.
+-   `finalcodedupltestsnn (1).hex`: This is another version of the compiled hexadecimal code, used for testing or containing minor variations.
 -   `hardware picture.jpeg`: An image file showcasing the physical hardware setup of the calculator, providing a visual reference for the implemented system.
 -   `README.md`: This file, providing an overview and instructions for the project.
 
